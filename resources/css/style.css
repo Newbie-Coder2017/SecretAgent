@@ -107,23 +107,22 @@ main {
 
 .product {
   border: 4px solid black;
-  margin: 3rem auto;
+  margin: 3rem 0px;
   width: 30%;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .product img {
+  max-width: 100%;
   height: 9rem;
   margin: 2rem auto;
-  flex-shrink: 1;
 }
 
 figcaption {
   background-color: black;
   text-align: center;
-  padding: 0.5rem;
-  width: 100%;
+  padding: 0.5rem 0px;
 }
 
 
