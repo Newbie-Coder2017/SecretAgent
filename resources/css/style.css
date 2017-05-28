@@ -184,6 +184,9 @@ footer p {
   #lg-menu {
     display: none;
   }
+  #cover {
+    justify-content: flex-end;
+  }
   nav ul {
     justify-content: center;
     width: 100%;
