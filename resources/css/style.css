@@ -111,12 +111,13 @@ main {
   width: 30%;
   display: flex;
   flex-direction: column;
+  align-content: center;
 }
 
 .product img {
   max-width: 100%;
   height: 9rem;
-  margin: 2rem auto;
+  margin: 2rem 0px;
 }
 
 figcaption {
