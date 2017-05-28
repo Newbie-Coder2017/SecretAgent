@@ -115,9 +115,8 @@ main {
 }
 
 .product img {
-  max-width: 100%;
   height: 9rem;
-  margin: 2rem 0px;
+  margin: 2rem auto;
 }
 
 figcaption {
